@@ -1,0 +1,23 @@
+{
+  "name": "fsn-desafio-javascript-i",
+  "version": "1.0.0",
+  "description": "- Tema: Sistema escolar\r  - Tecnologia: Javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALESSANDROLMENEZES/FSN-desafio-javascript-I.git"
+  },
+  "author": "Alessandro L. Menezes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ALESSANDROLMENEZES/FSN-desafio-javascript-I/issues"
+  },
+  "homepage": "https://github.com/ALESSANDROLMENEZES/FSN-desafio-javascript-I#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
