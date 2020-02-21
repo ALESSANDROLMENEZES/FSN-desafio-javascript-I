@@ -175,4 +175,4 @@ const aprovarAluno = (nomeAluno) => {
 };
 
 
-module.exports = { alunosDaEscola, listarAlunos, aprovarAluno };
+module.exports = { alunosDaEscola, listarAlunos, aprovarAluno, adicionarAluno, buscarAluno, matricularAluno, aplicarFalta, aplicarNota };
